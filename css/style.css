@@ -1,0 +1,59 @@
+header{
+    background-color: #2c3e50;
+}
+.ms-head-title{
+    color: white;
+}
+.ms-head{
+    align-items: center;
+}
+.ms-burger{
+    text-align: end;
+    color: white;
+}
+.main-nav ul{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.main-nav li{
+    padding: 0 8px;
+    list-style: none;
+    color: white;
+}
+.ms-green{
+    background-color: #1abc9c;
+    justify-content: center;
+
+}
+
+.ms-image{
+    text-align: center;
+    width: 260px;
+    height: 270px;
+    background-color: lightgray;
+    color: grey;
+}
+.ms-title{
+    color: white;
+    text-align: center;
+}
+hr{
+    color: white;
+}
+.ms-categorie{
+    text-align: center;
+    color: white;
+}
+
+.portfolio hr{
+    color: black;
+}
+.port-title{
+    align-items: center;
+    flex-direction: column;
+}
+.port-title h3{
+    text-align: center;
+}
