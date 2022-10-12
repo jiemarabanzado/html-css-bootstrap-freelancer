@@ -94,6 +94,12 @@ header{
 img{
     width: 100%;
 }
+.img-grid{
+    margin-bottom:50px;
+}
 .about{
     background-color: #1abc9c;
+}
+.ms-card {
+    margin-bottom: 15px;
 }
